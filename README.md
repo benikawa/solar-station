@@ -11,4 +11,4 @@ pip install -e .
 
 ## run
 Run the following command:
-```python -m solar-station.main``
+```python -m solar-station.main```
