@@ -1,0 +1,9 @@
+[project]
+name = "solar-station"
+version = "0.1.0"
+
+dependencies = [
+	"pandas",
+	"openpyxl",
+	"adafruit-circuitpython-bme680",
+]
